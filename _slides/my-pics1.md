@@ -4,7 +4,7 @@ title: My slideshow
 item: 1
 auto: true
 loop: true
-autoWidth: true
+autoWidth: false
 ---
 
 * ![XA nice pic of mine](my-pics1/pic1.jpg)
