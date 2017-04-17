@@ -1,5 +1,5 @@
 ---
-layout: iframe
+layout: default
 title: My slideshow
 item: 1
 auto: true
